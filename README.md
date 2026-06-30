@@ -1,34 +1,38 @@
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! This repository showcases my projects, write-ups, scripts, and learning journey as I build my career in cybersecurity.
+Welcome to my cybersecurity portfolio! This repository showcases my projects, write-ups, scripts, and learning journey as I develop my skills in cybersecurity and incident response.
 
 ## 📁 Repository Structure
 
-- **[CTF-Write-ups/](./CTF-Write-ups/)** - Detailed write-ups of Capture The Flag competitions and challenges
-- **[Security-Scripts/](./Security-Scripts/)** - Original security tools and automation scripts
-- **[Malware-Analysis/](./Malware-Analysis/)** - Malware analysis reports and findings
-- **[Lab-Documentation/](./Lab-Documentation/)** - Documentation of my home lab setups and configurations
-- **[Bug-Bounty-Reports/](./Bug-Bounty-Reports/)** - Bug bounty findings and vulnerability reports
+- **[CTF-Write-ups/](./CTF-Write-ups/)** - Detailed write-ups from Capture The Flag challenges and competitions
+- **[Security-Scripts/](./Security-Scripts/)** - Security tools and scripts I've built
+- **[Malware-Analysis/](./Malware-Analysis/)** - My malware analysis reports and findings
+- **[Lab-Documentation/](./Lab-Documentation/)** - Documentation of my home lab setups
+- **[Bug-Bounty-Reports/](./Bug-Bounty-Reports/)** - Vulnerability findings and bug bounty reports
 
 ## 🎯 About Me
 
-I'm passionate about cybersecurity and building practical skills in incident response, threat detection, and defensive security practices.
+I'm Daniel Thrasyvoulou, passionate about cybersecurity and dedicated to building practical skills in incident response, threat detection, and blue team operations. I'm actively learning through hands-on projects and am always looking to expand my knowledge in defensive security.
 
-## 🚀 Featured Projects
+## 🚀 What You'll Find Here
 
-*Projects will be added here as they're completed*
+This portfolio represents my journey learning cybersecurity through real-world scenarios, CTF challenges, and security research. Each project documents my approach, findings, and key takeaways.
 
-## 📚 Skills
+## 📚 Skills & Interests
 
-- Network Security
-- Incident Response
-- Security Tools & Scripting
+- Incident Response & Threat Hunting
 - Malware Analysis
+- Network Security
+- Security Scripting (Python, Bash)
 - Vulnerability Assessment
+- Blue Team Operations
 
-## 📧 Contact
+## 📧 Get In Touch
 
-Feel free to reach out or connect with me on GitHub!
+Feel free to reach out to discuss cybersecurity, security tools, or collaboration opportunities!
+
+**Email:** dannythrasyvoulou@gmail.com  
+**GitHub:** [mannic1](https://github.com/mannic1)
 
 ---
 
